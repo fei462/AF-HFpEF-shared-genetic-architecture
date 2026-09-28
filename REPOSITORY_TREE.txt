@@ -1,0 +1,103 @@
+./.gitignore
+./00_Setup/config_example.R
+./00_Setup/install_R_dependencies.R
+./01_GWAS_QC_LDSC/01_01_gwas_inventory_audit.R
+./01_GWAS_QC_LDSC/01_02_hfpef_hermes_nested_audit.R
+./01_GWAS_QC_LDSC/01_03_hfpef_extract_refprep.R
+./01_GWAS_QC_LDSC/01_04_gwas_harmonization.R
+./01_GWAS_QC_LDSC/01_05_run_ldsc_h2_rg.R
+./01_GWAS_QC_LDSC/01_06_ldsc_postprocess_numeric_tables.R
+./02_MR_MVMR/02_01_bidirectional_uvmr_mvmr.R
+./02_MR_MVMR/02_02_mvmr_strength_optimization_sensitivity.R
+./02_MR_MVMR/02_03_weak_instrument_robust_mvmr.R
+./02_MR_MVMR/02_04_mr_submission_tables_and_qc.R
+./03_Pleiotropy_conjFDR_FUMA/03_00_prepare_full_GWAS_standardized_inputs.R
+./03_Pleiotropy_conjFDR_FUMA/03_01_conditional_qq_prep.R
+./03_Pleiotropy_conjFDR_FUMA/03_02_run_conjfdr_AF_HFpEF.R
+./03_Pleiotropy_conjFDR_FUMA/03_03_run_conjfdr_AF_BMI.R
+./03_Pleiotropy_conjFDR_FUMA/03_04_run_conjfdr_AF_OSA.R
+./03_Pleiotropy_conjFDR_FUMA/03_05_run_conjfdr_HFpEF_BMI.R
+./03_Pleiotropy_conjFDR_FUMA/03_06_run_conjfdr_BMI_OSA.R
+./03_Pleiotropy_conjFDR_FUMA/03_07_run_conjfdr_HFpEF_OSA.R
+./03_Pleiotropy_conjFDR_FUMA/03_08_prepare_FUMA_6pairs.R
+./03_Pleiotropy_conjFDR_FUMA/03_09_prepare_FUMA_predefined_leads.R
+./04_LAVA/04_01_create_lava_project.R
+./04_LAVA/04_02_check_ukb_lava_reference.R
+./04_LAVA/04_03_prepare_lava_inputs.R
+./04_LAVA/04_04_ldsc_overlap_and_process_input.R
+./04_LAVA/04_05_local_h2_screening.R
+./04_LAVA/04_06_bivariate_local_rg.R
+./04_LAVA/04_07_multivariate_conditional_lava.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_01_targeted_coloc_abf.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_02_coloc_prior_sensitivity.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_03_mismatch_aware_coloc_susie.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_04_susie_SER_reliability_audit.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_05_prepare_smr_gwas_gtex.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_06_run_eqtl_smr_heidi.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_07_osa_ma_byte_safe_repair_and_resume.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_08_target_region_zero_probe_audit.R
+./05_Coloc_SuSiE_SMR_HEIDI/05_09_fullgenome_sqtl_smr_heidi.R
+./06_Multilayer_Locus_Integration/06_01_multilayer_genetic_integration.R
+./06_Multilayer_Locus_Integration/06_02_gene_prioritization.R
+./06_Multilayer_Locus_Integration/06_03_locus_centric_integration_final.R
+./06_Multilayer_Locus_Integration/06_04_secondary_AF_BMI_16p11_coloc_susie.R
+./07_GSE238242_SLDSC_SCAVENGE/07_01_GSE238242_local_audit.R
+./07_GSE238242_SLDSC_SCAVENGE/07_02_atac_celltype_aggregation.R
+./07_GSE238242_SLDSC_SCAVENGE/07_03_atac_annotation_GRCh38.R
+./07_GSE238242_SLDSC_SCAVENGE/07_04_liftover_GRCh38_to_hg19.R
+./07_GSE238242_SLDSC_SCAVENGE/07_05_build_ldsc_annotations_and_scores.R
+./07_GSE238242_SLDSC_SCAVENGE/07_06_AF_primary_SLDSC_h2cts.R
+./07_GSE238242_SLDSC_SCAVENGE/07_07_AF_SCAVENGE_finemap_prep.R
+./07_GSE238242_SLDSC_SCAVENGE/07_08_AF_LDetect_blocks_build_QC.R
+./07_GSE238242_SLDSC_SCAVENGE/07_09_AF_SuSiE_finemap_to_PIP.R
+./07_GSE238242_SLDSC_SCAVENGE/07_10_AF_PIP_to_gchromVAR_seeds.R
+./07_GSE238242_SLDSC_SCAVENGE/07_11_SCAVENGE_network_TRS_1000perm.R
+./07_GSE238242_SLDSC_SCAVENGE/07_12_low_reference_match_sensitivity.R
+./07_GSE238242_SLDSC_SCAVENGE/07_13_CM_internal_TRS_chromatin_pseudobulk.R
+./07_GSE238242_SLDSC_SCAVENGE/07_14_CM_motif_TF_integration.R
+./08_Disease_Tissue_Validation/08_01_GSE255612_patient_celltype_pseudobulk.R
+./08_Disease_Tissue_Validation/08_02_GSE255612_AF_vs_CTRL_pseudobulk_DE.R
+./08_Disease_Tissue_Validation/08_03_frozen_genetics_x_AF_CM_validation.R
+./08_Disease_Tissue_Validation/08_04_SCP3342_HFpEF_audit_metadata_lock.R
+./08_Disease_Tissue_Validation/08_05_SCP3342_HFpEF_CM_pseudobulk_DE.R
+./08_Disease_Tissue_Validation/08_06_AF_HFpEF_CM_cross_disease_integration.R
+./09_Figures/09_01_Figure1a_workflow_schematic.R
+./09_Figures/09_02_Figure6e_integrated_interpretation.R
+./09_Figures/09_reproduce_main_figures.R
+./09_Figures/source_data/FIG 1B.csv
+./09_Figures/source_data/FIG 1C.csv
+./09_Figures/source_data/FIG 2A.csv
+./09_Figures/source_data/FIG 2B.csv
+./09_Figures/source_data/FIG 2C.csv
+./09_Figures/source_data/FIG 2D.csv
+./09_Figures/source_data/FIG 3A.csv
+./09_Figures/source_data/FIG 3B.csv
+./09_Figures/source_data/FIG 3C.csv
+./09_Figures/source_data/FIG 4A.csv
+./09_Figures/source_data/FIG 4C.csv
+./09_Figures/source_data/FIG 4D.csv
+./09_Figures/source_data/FIG 5A.csv
+./09_Figures/source_data/FIG 5B.csv
+./09_Figures/source_data/FIG 5C.csv
+./09_Figures/source_data/FIG 5D.csv
+./09_Figures/source_data/FIG 5E.csv
+./09_Figures/source_data/FIG 6A.csv
+./09_Figures/source_data/FIG 6B.csv
+./09_Figures/source_data/FIG 6C.csv
+./09_Figures/source_data/FIG 6D.csv
+./09_Figures/source_data/README.txt
+./CITATION.cff
+./CODE_AVAILABILITY_STATEMENT.txt
+./DATA_AVAILABILITY.md
+./GITHUB_ZENODO_RELEASE_CHECKLIST.md
+./LICENSE
+./README.md
+./REPRODUCIBILITY.md
+./metadata/CODE_MANIFEST.csv
+./metadata/EXCLUDED_WORKING_SCRIPTS.csv
+./metadata/FILE_MANIFEST_SHA256.csv
+./metadata/REPOSITORY_TREE.txt
+./metadata/RUN_ORDER.csv
+./metadata/SHA256SUMS.txt
+./metadata/SOFTWARE_ENVIRONMENT.md
+./metadata/VALIDATION_REPORT.md

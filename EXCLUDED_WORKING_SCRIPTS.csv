@@ -1,0 +1,90 @@
+working_filename,reason
+FIG1C_LDSC_genetic_correlation_NC.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+FIG2D_LAVA_NC_TAILORED_TO_UPLOADED_TABLE.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+FIG2D_LAVA_NC_TAILORED_V2_FIX_SETORDER.R,Excluded: superseded intermediate/older version.
+FIG4A_MULTILAYER_EVIDENCE_NC.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+FIG5E_CM_DONOR_CONSISTENCY_NC.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+FIG6C_AF_HFpEF_CM_TRANSCRIPTOME_NC.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+FINAL_MR_VISUALIZATION_AND_SUBMISSION_PACKAGE.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+FINAL_MR_VISUALIZATION_AND_SUBMISSION_PACKAGE_V2_FIXED.R,Excluded: superseded intermediate/older version.
+IEU#U4ee4#U724c#U53ca#U6570#U636e#U4e0b#U8f7d.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP10A_multi_layer_genetic_evidence_integration(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP10B_GSE238242_STRUCTURE_BARCODE_QC.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP10B_V3_1_FINAL_LOCUS_CENTRIC_INTEGRATION.R,Excluded: superseded intermediate/older version.
+STEP10B_V3_FINAL_LOCUS_CENTRIC_INTEGRATION(1).R,Excluded: superseded intermediate/older version.
+STEP10B_V4_CONTINUE_AFTER_SUSIE_V9(1).R,Excluded: current-session recovery/debug script; fix is incorporated into the released final workflow where relevant.
+STEP10B_V4_RESUME_AFTER_SUSIE_V9.R,Excluded: current-session recovery/debug script; fix is incorporated into the released final workflow where relevant.
+STEP10B_V4_SECONDARY_AF_BMI_16P11_COLOC_SUSIE_FIXED(1).R,Excluded: superseded intermediate/older version.
+STEP10B_V4_SECONDARY_AF_BMI_16P11_COLOC_SUSIE_FIXED_V2(1).R,Excluded: superseded intermediate/older version.
+STEP10B_V4_SECONDARY_AF_BMI_16P11_COLOC_SUSIE_FIXED_V3.R,Excluded: superseded intermediate/older version.
+STEP10B_V4_SECONDARY_AF_BMI_16P11_COLOC_SUSIE_FIXED_V4.R,Excluded: superseded intermediate/older version.
+STEP10B_V4_SECONDARY_AF_BMI_16P11_COLOC_SUSIE_FIXED_V5.R,Excluded: superseded intermediate/older version.
+STEP10B_V4_SECONDARY_AF_BMI_16P11_COLOC_SUSIE_FIXED_V6.R,Excluded: superseded intermediate/older version.
+STEP10B_V4_SECONDARY_AF_BMI_16P11_COLOC_SUSIE_FIXED_V7.R,Excluded: superseded intermediate/older version.
+STEP10B_V4_SECONDARY_AF_BMI_16P11_COLOC_SUSIE_FIXED_V8(1).R,Excluded: superseded intermediate/older version.
+STEP10C_DONOR_BALANCED_CONSENSUS_ATAC_ANNOTATIONS.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP10C_V2_DONOR_BALANCED_CONSENSUS_ATAC_ANNOTATIONS_FIXED (1).R,Excluded: superseded intermediate/older version.
+STEP10C_V3_DONOR_BALANCED_CONSENSUS_ATAC_ANNOTATIONS_BARCODE_FIXED.R,Excluded: superseded intermediate/older version.
+STEP10C_V4_FREAD_HEADER_DONOR_BALANCED_CONSENSUS_ATAC.R,Excluded: superseded intermediate/older version.
+STEP10C_V4_TO_V5_HOTFIX_CONTINUE_CURRENT_SESSION.R,Excluded: current-session recovery/debug script; fix is incorporated into the released final workflow where relevant.
+STEP10D1_HG38_TO_HG19_LIFTOVER_AND_LDSC_REFERENCE_AUDIT.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP10D1_V2_LOCAL_CHAIN_LIFTOVER_AND_LDSC_REFERENCE_AUDIT.R,Excluded: superseded intermediate/older version.
+STEP10D1_V2_TO_V3_HOTFIX_CURRENT_SESSION.R,Excluded: current-session recovery/debug script; fix is incorporated into the released final workflow where relevant.
+STEP10D2_CURRENT_SESSION_PYTHON3_DIAGNOSTIC.R,Excluded: current-session recovery/debug script; fix is incorporated into the released final workflow where relevant.
+STEP10D2_FORMAL_SLDSC_CELLTYPE_ANALYSIS.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP10D2_V2_LF_SAFE_FORMAL_SLDSC_CELLTYPE_ANALYSIS.R,Excluded: superseded intermediate/older version.
+STEP10D2_V3_PYTHON3_AWARE_FORMAL_SLDSC_CELLTYPE_ANALYSIS.R,Excluded: superseded intermediate/older version.
+STEP10D2_V4_MINIFORGE_AWARE_FORMAL_SLDSC_CELLTYPE_ANALYSIS(1).R,Excluded: superseded intermediate/older version.
+STEP11F_FIX_V2_TRAILING_DOT_AF_H2CTS(1).R,Excluded: superseded intermediate/older version.
+STEP11F_FIX_V3_AUTO_DISCOVER_REFERENCE_AND_RUN_AF_H2CTS(1).R,Excluded: superseded intermediate/older version.
+STEP11F_FIX_V4_CORRECT_LDSC_SUFFIX_AND_RUN_AF_H2CTS(1).R,Excluded: superseded intermediate/older version.
+STEP11F_FIX_V5_WEIGHT_QC_CORRECT_AND_RUN_AF_H2CTS(1).R,Excluded: superseded intermediate/older version.
+STEP11F_GSE238242_AF_PRIMARY_FORMAL_SLDSC(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP11G2A_AF_LDETECT_BLOCK_FREEZE_AND_BUILD_QC(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP11G2A_V2_ROBUST_LDETECT_PARSE_AND_BUILD_QC(1).R,Excluded: superseded intermediate/older version.
+STEP11G2A_V3_SSL_SAFE_CHAIN_DOWNLOAD_AND_BUILD_QC(1).R,Excluded: superseded intermediate/older version.
+STEP11G3A_AF_PIP_TO_GCHROMVAR_SEEDS(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP11G3B_FULL_SCAVENGE_NETWORK_TRS_1000PERM(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP11G3B_V2_FIX_DEGREE_INDEX_FULL_SCAVENGE_1000PERM(1).R,Excluded: superseded intermediate/older version.
+STEP11G4A_LOW_REFERENCE_MATCH_BLOCK_SENSITIVITY(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP11G4C_CM_MOTIF_TF_INTEGRATION(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP12A_V2_CONTINUE_FIX_DATATABLE_MEDIAN_TYPE(1).R,Excluded: current-session recovery/debug script; fix is incorporated into the released final workflow where relevant.
+STEP12B_GSE255612_PATIENT_LEVEL_AF_vs_CTRL_PSEUDOBULK_DE(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP12C_FROZEN_GENETICS_x_GSE255612_CM_DISEASE_VALIDATION.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP13A_HFPEF_SCP3342_H5AD_AUDIT_AND_METADATA_LOCK.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP13A_V2_FIX_DATATABLE_TYPES_HFPEF_H5AD_AUDIT.R,Excluded: superseded intermediate/older version.
+STEP13B_SCP3342_HFPEF_CM_PATIENT_PSEUDOBULK_LIMMA_VOOM.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP13C_FINAL_AF_HFpEF_CM_CROSS_DISEASE_INTEGRATION.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP13C_V3_CONTINUE_AFTER_PERMUTATION_FROM_TX_AUDIT.R,Excluded: current-session recovery/debug script; fix is incorporated into the released final workflow where relevant.
+STEP1B0_HERMES_nested_audit.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP1C_GWAS_harmonization.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP1D_02_VISUALIZE_LDSC_V2_FIXED.R,Excluded: superseded intermediate/older version.
+STEP1D_02_VISUALIZE_LDSC_V3_RAWLOG_FIXED.R,Excluded: superseded intermediate/older version.
+STEP1D_Figure2A_FINAL_visualization.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP1D_POSTPROCESS_V5_REBUILD_NUMERIC_TABLES.R,Excluded: superseded intermediate/older version.
+STEP2A_MIXER_input_preparation.R,Excluded: MiXeR was removed from the final manuscript.
+STEP3B_MR_MVMR_FULL(1).R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP3D_QHET_WEAK_INSTRUMENT_ROBUST_MVMR.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP5A_pleioFDR_prep_condQQ.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP5B_OFFICIAL_pleioFDR_AF_HFpEF.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP5B_OFFICIAL_pleioFDR_AF_HFpEF_V2.R,Excluded: superseded intermediate/older version.
+STEP5D1_AF_HFpEF_FUMA_PREP.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP7B2_LDSC_OVERLAP_AND_PROCESS_INPUT_QC.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP7B2_V2_FIXED_LDSC_OVERLAP_PROCESS_INPUT.R,Excluded: superseded intermediate/older version.
+STEP7B2_V3_FINAL_LDSC_OVERLAP_PROCESS_INPUT.R,Excluded: superseded intermediate/older version.
+STEP7B_PREPARE_LAVA_INPUTS.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP7C_RUN_LOCAL_H2_SCREENING.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP8A_TARGETED_COLOC_ABF.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP8C_COLOC_SUSIE_MULTISIGNAL_FINAL.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP8C_V2_1000G_EUR_PLINK_LD_COLOC_SUSIE.R,Excluded: superseded intermediate/older version.
+STEP8C_V3_1000G_EUR_MISMATCH_AWARE_COLOC_SUSIE(1)(1).R,Excluded: superseded intermediate/older version.
+STEP8C_V4_SER_RELIABILITY_AUDIT(1).R,Excluded: superseded intermediate/older version.
+STEP9A_PREPARE_SMR_GWAS_GTEX_QC.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP9A_SMR_HEIDI_PREP_FULL.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP9A_V2_PREPARE_SMR_GWAS_GTEX_QC_FIXED.R,Excluded: superseded intermediate/older version.
+STEP9B_RUN_32_SMR_HEIDI_GTEX_LITE.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP9B_V3_REPAIR_OSA_MA_AND_RESUME_SMR_HEIDI.R,Excluded: current-session recovery/debug script; fix is incorporated into the released final workflow where relevant.
+STEP9C1_SMR_INTEGRATION_TARGET_LOCUS_AUDIT.R,Excluded: working/duplicate script not required to reproduce the final manuscript.
+STEP9C1_V2_FIXED_4_REGION_AUDIT.R,Excluded: superseded intermediate/older version.
+STEP9C2_GTEX_V8_SQTL_SMR_HEIDI_COMPLETE.R,Excluded: superseded intermediate/older version.
+STEP9C2_V2_GTEX_SQTL_SMR_HEIDI_FIXED.R,Excluded: superseded intermediate/older version.

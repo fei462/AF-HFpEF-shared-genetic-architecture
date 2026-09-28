@@ -1,0 +1,3 @@
+Code availability
+
+Custom R scripts used to generate the analyses and figures reported in this study are provided with the submission in the accompanying code archive. The archive contains the curated final analysis scripts, panel-level figure source-data plotting scripts, run order, software/dependency documentation, and a manifest identifying the released versions. Third-party software (including LDSC, pleioFDR, PLINK, FUMA, LAVA, SMR/HEIDI, gchromVAR and SCAVENGE) is available from the original developers and is not redistributed. The final accepted code release will be archived in a persistent public repository with a permanent identifier.

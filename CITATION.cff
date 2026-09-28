@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Code for integrated genetic and single-cell analysis of AF, HFpEF, BMI and OSA"
+type: software
+version: "1.0"
+date-released: "2026-09-24"
+license: MIT
+authors:
+  - family-names: "Authors"
+    given-names: "Study"
